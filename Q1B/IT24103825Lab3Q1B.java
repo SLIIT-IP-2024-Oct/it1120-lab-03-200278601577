@@ -19,7 +19,7 @@ public class IT24103825Lab3Q1B{
 
         discountedfinalAmount = totalBill - discount;
 
-        System.out.println("The total amount with 10% discount is: " + discountedfinalAmount);
+        System.out.println("\nThe total amount with 10% discount is: " + discountedfinalAmount);
         
 
         }
